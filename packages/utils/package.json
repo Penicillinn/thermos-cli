@@ -1,5 +1,5 @@
 {
-  "name": "@thermos-cli/utils",
+  "name": "thermos-cli/utils",
   "version": "1.0.2",
   "description": "utils",
   "keywords": [
@@ -25,5 +25,5 @@
   "dependencies": {
     "lodash": "^4.17.21"
   },
-  "gitHead": "b25141795fc308d526408e142730f86bee86415a"
+  "gitHead": "0e98338ffd3f37ae082e05c8b3b16d48575a7481"
 }
