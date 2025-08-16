@@ -1,6 +1,6 @@
 {
   "name": "@thermos-cli/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "core",
   "keywords": [
     "core"
@@ -23,6 +23,6 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@thermos-cli/utils": "*"
+    "@thermos-cli/utils": "^1.0.1"
   }
 }
