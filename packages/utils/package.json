@@ -24,5 +24,6 @@
   },
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "b25141795fc308d526408e142730f86bee86415a"
 }

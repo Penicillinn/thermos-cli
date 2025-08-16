@@ -24,5 +24,6 @@
   },
   "dependencies": {
     "@thermos-cli/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "b25141795fc308d526408e142730f86bee86415a"
 }
